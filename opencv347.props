@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <IncludePath>D:\MVS\MVS\Development\Includes;F:\halcon12\include\halconcpp;D:\Halcon12.0\include\cpp;D:\Halcon12.0\include;D:\opencv3.4.7\build\include;D:\opencv3.4.7\build\include\opencv;D:\opencv3.4.7\build\include\opencv2;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\opencv3.4.7\build\x64\vc14\lib;D:\Halcon12.0\lib\x64-win64;D:\MVS\MVS\Development\Libraries\GenICam\win64;D:\MVS\MVS\Development\Libraries\win64;$(LibraryPath)</LibraryPath>
+    <ReferencePath>D:\Halcon12.0\lib\x64-win64;D:\Halcon12.0\lib;D:\opencv3.4.7\build\x64\vc14\lib;D:\MVS\MVS\Development\Libraries\GenICam\win64;D:\MVS\MVS\Development\Libraries\win64;$(ReferencePath)</ReferencePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalDependencies>halconcpp.lib;halcon.lib;opencv_world347d.lib;opencv_world347.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>F:\halcon12\lib\x64-win64;F:\halcon12\lib;D:\opencv3.4.7\build\x64\vc14\lib;D:\MVS\MVS\Development\Libraries\win64;D:\MVS\MVS\Development\Libraries\GenICam\win64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>
