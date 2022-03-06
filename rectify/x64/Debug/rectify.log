@@ -1,0 +1,177 @@
+﻿生成启动时间为 2018/8/5 16:31:16。
+     1>项目“E:\studyOpencv\rectify\rectify.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         F:\software devolop\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp rectifyImage.cpp
+         rectifyImage.cpp
+     1>F:\opencv3.1.0\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\opencv3.1.0\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\opencv3.1.0\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(273): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(273): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(276): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(276): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(278): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(279): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(279): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(279): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(282): error C2327: “cv::Octree::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(282): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(282): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(282): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(283): error C2327: “cv::Octree::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(283): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(283): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(283): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(295): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(295): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(302): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(302): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(304): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(304): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(306): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(306): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(306): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(307): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(307): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(307): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(338): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(338): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(341): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(371): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(374): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(374): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(376): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(376): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(376): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(347): error C2039: “vtx”: 不是“cv::Mesh3D”的成员
+                 E:\opencv\build\include\opencv2/contrib/contrib.hpp(290) : 参见“cv::Mesh3D”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(347): error C2065: “subset”: 未声明的标识符
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(348): error C2039: “normals”: 不是“cv::Mesh3D”的成员
+                 E:\opencv\build\include\opencv2/contrib/contrib.hpp(290) : 参见“cv::Mesh3D”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(348): error C2065: “subset”: 未声明的标识符
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(419): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(489): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(561): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(760): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(760): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(760): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(761): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(761): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(761): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(762): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(762): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(762): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(771): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(771): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(771): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(777): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(777): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(777): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(841): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(841): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(841): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(842): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(842): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(842): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(853): error C2011: “cv::LDA”:“class”类型重定义
+                 F:\opencv3.1.0\build\include\opencv2/core.hpp(2423) : 参见“cv::LDA”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(940): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(940): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(943): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(943): error C2143: 语法错误 : 缺少“,”(在“&”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(960): error C2365: “COLORMAP_AUTUMN”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3782) : 参见“COLORMAP_AUTUMN”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(961): error C2365: “COLORMAP_BONE”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3783) : 参见“COLORMAP_BONE”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(962): error C2365: “COLORMAP_JET”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3784) : 参见“COLORMAP_JET”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(963): error C2365: “COLORMAP_WINTER”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3785) : 参见“COLORMAP_WINTER”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(964): error C2365: “COLORMAP_RAINBOW”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3786) : 参见“COLORMAP_RAINBOW”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(965): error C2365: “COLORMAP_OCEAN”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3787) : 参见“COLORMAP_OCEAN”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(966): error C2365: “COLORMAP_SUMMER”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3788) : 参见“COLORMAP_SUMMER”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(967): error C2365: “COLORMAP_SPRING”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3789) : 参见“COLORMAP_SPRING”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(968): error C2365: “COLORMAP_COOL”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3790) : 参见“COLORMAP_COOL”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(969): error C2365: “COLORMAP_HSV”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3791) : 参见“COLORMAP_HSV”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(970): error C2365: “COLORMAP_PINK”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3792) : 参见“COLORMAP_PINK”的声明
+     1>E:\opencv\build\include\opencv2/contrib/contrib.hpp(972): error C2365: “COLORMAP_HOT”: 重定义；以前的定义是“枚举数”
+                 F:\opencv3.1.0\build\include\opencv2/imgproc.hpp(3793) : 参见“COLORMAP_HOT”的声明
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(118): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(118): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(122): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(122): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(125): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(125): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(125): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(126): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(126): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(126): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(126): error C2086: “const int cv::of2::FabMap::vector”: 重定义
+                 E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(125) : 参见“cv::of2::FabMap::vector”的声明
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(126): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(130): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(133): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(136): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(136): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(138): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(138): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(138): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(141): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(141): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(141): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(143): error C2535: “void cv::of2::FabMap::compare(const int)”: 已经定义或声明成员函数
+                 E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(138) : 参见“cv::of2::FabMap::compare”的声明
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(148): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(148): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(156): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(156): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(161): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(161): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(177): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(177): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(177): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(177): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(178): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(178): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(178): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(178): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(179): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(179): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(179): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(179): error C2238: 意外的标记位于“;”之前
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(206): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(206): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(222): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(222): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(246): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(246): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(298): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(298): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(298): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(303): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(303): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(303): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(308): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(308): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(313): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(317): error C2061: 语法错误: 标识符“vector”
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(321): error C2327: “cv::of2::FabMap::vector”: 不是类型名称、静态或枚举数
+     1>E:\opencv\build\include\opencv2/contrib/openfabmap.hpp(321): fatal error C1003: 错误计数超过 100；正在停止编译
+         main.cpp
+     1>main.cpp(14): warning C4129: “c”: 不可识别的字符转义序列
+     1>main.cpp(14): warning C4129: “C”: 不可识别的字符转义序列
+     1>main.cpp(16): warning C4129: “c”: 不可识别的字符转义序列
+     1>main.cpp(16): warning C4129: “C”: 不可识别的字符转义序列
+         正在生成代码...
+     1>已完成生成项目“E:\studyOpencv\rectify\rectify.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.80
